@@ -1,0 +1,1 @@
+export const DATA=[{name:"URBAN-GIRL-T-shirt",price:20},{name:"T-shirt",price:12}]
